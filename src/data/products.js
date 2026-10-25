@@ -1,0 +1,42 @@
+export const products = [
+  {
+    id: 'linen-shirt',
+    name: 'Льняная рубашка',
+    category: 'Рубашки',
+    price: 3490,
+    image: 'https://images.unsplash.com/photo-1598032895397-b9472444bf93?auto=format&fit=crop&w=700&q=85',
+    color: 'linear-gradient(135deg, #f5ece1, #e7d5c2)',
+  },
+  {
+    id: 'classic-coat',
+    name: 'Пальто прямого кроя',
+    category: 'Верхняя одежда',
+    price: 10990,
+    image: 'https://images.unsplash.com/photo-1539533018447-63fcce2678e3?auto=format&fit=crop&w=700&q=85',
+    color: 'linear-gradient(135deg, #e8e1d9, #c9b9ac)',
+  },
+  {
+    id: 'leather-bag',
+    name: 'Кожаная сумка',
+    category: 'Аксессуары',
+    price: 6790,
+    image: 'https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=85',
+    color: 'linear-gradient(135deg, #ead9cb, #d9bba5)',
+  },
+  {
+    id: 'cotton-dress',
+    name: 'Хлопковое платье',
+    category: 'Платья',
+    price: 5290,
+    image: 'https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=700&q=85',
+    color: 'linear-gradient(135deg, #f4e6e1, #ddbcb3)',
+  },
+  {
+    id: 'knit-cardigan',
+    name: 'Вязаный кардиган',
+    category: 'Трикотаж',
+    price: 4590,
+    image: 'https://images.unsplash.com/photo-1485968579580-b6d095142e6e?auto=format&fit=crop&w=700&q=85',
+    color: 'linear-gradient(135deg, #ece9df, #cfc8b8)',
+  },
+];
